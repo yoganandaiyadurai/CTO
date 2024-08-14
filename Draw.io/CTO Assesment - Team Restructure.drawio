@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="pY38qy5y8yL2ajrc0aq_">
-    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="130" width="260" height="190" as="geometry" />
         </mxCell>
         <mxCell id="iFOoKA2MuVSQarTfzU_r-9" value="Tech" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=top;align=center;fontColor=#0000FF;fontStyle=1;gradientColor=#CCFFCC;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="310" y="140" width="520" height="400" as="geometry" />
+          <mxGeometry x="310" y="140" width="740" height="400" as="geometry" />
         </mxCell>
         <mxCell id="iFOoKA2MuVSQarTfzU_r-10" value="CPO" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Green_128x128.png;fontStyle=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="156" width="70" height="40" as="geometry" />
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="iFOoKA2MuVSQarTfzU_r-65" value="&lt;div&gt;Back-End&lt;/div&gt;&lt;div&gt;Engineers (2)&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="916.5" y="356.63" width="35" height="36.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gQinnU8R4zkjjlyxcumg-1" value="Tech. Lead" style="image;html=1;image=img/lib/clip_art/people/Worker_Woman_128x128.png;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="148.5" width="40" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
